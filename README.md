@@ -5,8 +5,9 @@
 
 <img src="img/banner-marco.png" alt="Nasrun Habu - MARCO"/>
 
-<br align="center"/>
-**Let's Connect**
+<br/>
+<br/>
+<p align="center">Let's Connect</p>
 <br/>
 
 
@@ -70,7 +71,7 @@ I'm open to learning, sharing ideas, collaborating on projects, and connecting w
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nasrunhabu&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://avatars.githubusercontent.com/u/333712935?v=4" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -80,6 +81,6 @@ I'm open to learning, sharing ideas, collaborating on projects, and connecting w
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0B3B8C,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:0B3B8C,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
 
 <!-- ═══════════════ END ═══════════════ -->

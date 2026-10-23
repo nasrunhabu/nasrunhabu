@@ -10,6 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
+<br/>
 
 
 <!-- SOCIAL LINKS | MARCO -->

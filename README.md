@@ -16,19 +16,19 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/nasrunhabu/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.flaticon.com/free-icons/linkedin" width="45" height="45" alt="LinkedIn"/>
+  <img src="img/linkedin.png" width="45" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/nasrunhabu97/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.flaticon.com/free-icons/instagram-logo" width="45" height="45" alt="Instagram"/>
+  <img src="img/instagram.png" width="45" height="45" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="https://wa.me/6285121337002" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.flaticon.com/free-icons/whatsapp" width="45" height="45" alt="WhatsApp"/>
+  <img src="img/whatsapp.png" width="45" height="45" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="mailto:nasrun.working@gmail.com">
-  <img src="https://www.flaticon.com/free-icons/interaction" width="45" height="45" alt="Gmail"/>
+  <img src="img/communication.png" width="45" height="45" alt="Gmail"/>
 </a>
 </div>
 

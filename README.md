@@ -3,13 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0B3B8C,100:00BFFF&text=Nasrun%20Habu&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=You%20can%20call%20me%20MARCO&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Nasrun Habu - MARCO"/>
-
-<br/>
-
-### 👋 Hei! Welcome to My GitHub Profile
-
-**Caregiver | Finance Virtual Assistant | Student of Fullstack Programming**
+<img src="banner-marco.png" alt="Nasrun Habu - MARCO"/>
 
 <br/>
 
@@ -26,15 +20,12 @@
 
 </div>
 
----
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-## 👨‍💻 About Me
 
 <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrunhabu&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-Hello! I'm **Nasrun Habu**, but you can call me **MARCO**.
 
 I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning **Fullstack Programming** and developing my understanding of modern web development.
 
@@ -46,7 +37,6 @@ I'm building my journey at the intersection of caregiving, financial administrat
 
 <br clear="right"/>
 
----
 
 <!-- ═══════════════ TECH JOURNEY ═══════════════ -->
 
@@ -72,7 +62,6 @@ I'm building my journey at the intersection of caregiving, financial administrat
   <i>My skills are continuously evolving as I learn and build projects.</i>
 </p>
 
----
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
@@ -90,7 +79,6 @@ I'm building my journey at the intersection of caregiving, financial administrat
 
 </div>
 
----
 
 <!-- ═══════════════ MOTIVATION ═══════════════ -->
 

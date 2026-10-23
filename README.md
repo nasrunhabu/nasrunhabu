@@ -34,8 +34,8 @@
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 <div align="center">
-  <p>I'm building my journey at the intersection of caregiving, financial administration, and technology.</p>
-  <p>Currently, I'm learning <b>Fullstack Programming</b> and developing my understanding of modern web development.</p> </div>
+  <p>I'm building my journey at the intersection of caregiving, financial administration, and technology.
+  <br>Currently, I'm learning <b>Fullstack Programming</b> and developing my understanding of modern web development.</p> </div>
 <br/>
 <br clear="right"/>
 

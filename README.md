@@ -7,10 +7,8 @@
 
 <br/>
 <br/>
-<p align="center">Let's Connect</p>
+<p align="center"><b><i>Let's Connect</i></b></p>
 <br/>
-
-
 <!-- SOCIAL LINKS | MARCO -->
 
 <div align="center">
@@ -30,25 +28,20 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
 </a>
 </div>
-
-
 </div>
 
 <br/>
+
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-
 <div align="center"> I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning <b>Fullstack Programming</b> and developing my understanding of modern web development. </div>
 <br/>
-
-
 <br clear="right"/>
-
 
 <!-- ═══════════════ TECH JOURNEY ═══════════════ -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing SVG"/>
 </div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,laravel,vuejs,tailwindcss&theme=dark" alt="Technologies and tools"/>
 </p>
@@ -56,10 +49,6 @@
 <p align="center">
   <i>My skills are continuously evolving as I learn and build projects.</i>
 </p>
-
-
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
 
 <div align="center">
 

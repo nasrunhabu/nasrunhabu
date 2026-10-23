@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="https://wa.me/6285121337002" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=whatsapp" width="45" height="45" alt="WhatsApp"/>
+  <img src="img/whatsapp.png" width="45" height="45" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="mailto:nasrun.working@gmail.com">

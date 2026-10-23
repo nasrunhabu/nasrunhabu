@@ -16,19 +16,19 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/nasrunhabu/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="45" height="45" alt="LinkedIn"/>
+  <img src="https://www.flaticon.com/free-icons/linkedin" width="45" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/nasrunhabu97/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="45" height="45" alt="Instagram"/>
+  <img src="https://www.flaticon.com/free-icons/instagram-logo" width="45" height="45" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="https://wa.me/6285121337002" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="45" height="45" alt="WhatsApp"/>
+  <img src="https://www.flaticon.com/free-icons/whatsapp" width="45" height="45" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="mailto:nasrun.working@gmail.com">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="45" height="45" alt="Gmail"/>
+  <img src="https://www.flaticon.com/free-icons/interaction" width="45" height="45" alt="Gmail"/>
 </a>
 </div>
 

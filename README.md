@@ -11,29 +11,42 @@
 
 <br/>
 
+
+<!-- SOCIAL LINKS | MARCO -->
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/nasrunhabu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/nasrunhabu97/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="http://wa.me/6285121337002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="nasrun.working@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/nasrunhabu/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071426" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/nasrunhabu97/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071426" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://wa.me/6285121337002" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=071426" alt="WhatsApp"/>
+</a>
+&nbsp;
+<a href="mailto:nasrun.working@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071426" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LET'S_CONNECT-Build_Something_Great-00BFFF?style=flat-square&labelColor=071426" alt="Let's Connect"/>
 
 </div>
 
 
+</div>
+
+<br/>
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 
 
-I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning **Fullstack Programming** and developing my understanding of modern web development.
-
+<div align="center"> I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning **Fullstack Programming** and developing my understanding of modern web development. </div>
+<br/>
 - 🩺 **Caregiver** — Care, compassion, and responsibility.
 - 💼 **Finance Virtual Assistant** — Financial administration and organization.
 - 💻 **Fullstack Student** — Exploring frontend and backend development.

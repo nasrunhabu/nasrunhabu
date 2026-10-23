@@ -1,125 +1,168 @@
 
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ============== MARCO | FUTURISTIC GITHUB PROFILE ============== -->
 
 <div align="center">
 
-<img src="img/banner-marco.png" alt="Nasrun Habu - MARCO"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:003B8E,70:007BFF,100:00E5FF&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=CODE%20%2F%20LEARN%20%2F%20GROW&descSize=17&descAlignY=53&animation=fadeIn&stroke=00BFFF&strokeWidth=1" width="100%" alt="MARCO Futuristic Header"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://github.com/nasrunhabu">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://github.com/nasrunhabu?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
+<!-- ANIMATED INTRO -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=750&height=65&lines=HEI!+I+AM+NASRUN+HABU;YOU+CAN+CALL+ME+MARCO;WELCOME+TO+MY+DIGITAL+WORLD" alt="Animated Introduction"/>
 </a>
 
-</div>
-
-
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrunhabu&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-
-I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning **Fullstack Programming** and developing my understanding of modern web development.
-
-- 🩺 **Caregiver** — Care, compassion, and responsibility.
-- 💼 **Finance Virtual Assistant** — Financial administration and organization.
-- 💻 **Fullstack Student** — Exploring frontend and backend development.
-- 🌱 **Currently Growing** — Learning programming one step at a time.
-- 🎯 **My Mission** — Build useful digital solutions and keep improving.
-
-<br clear="right"/>
-
-
-<!-- ═══════════════ TECH JOURNEY ═══════════════ -->
-
-## ⚡ My Tech Journey
-
-<div align="center">
-
-| Area | Learning Focus |
-|:---:|:---|
-| 🌐 Frontend | HTML, CSS, JavaScript |
-| ⚙️ Backend | PHP and server-side programming |
-| 🗄️ Database | MySQL and database design |
-| 🔌 Integration | APIs and web services |
-| 🛠️ Workflow | Git, GitHub, and debugging |
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Technologies and tools"/>
-</p>
-
-<p align="center">
-  <i>My skills are continuously evolving as I learn and build projects.</i>
-</p>
-
-
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrunhabu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=nasrunhabu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nasrunhabu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&height=35&lines=Caregiver+%7C+Finance+Virtual+Assistant;Student+of+Fullstack+Programming;Learning+Today.+Building+Tomorrow." alt="Animated Roles"/>
 
-</div>
+<br/><br/>
 
+<!-- NEON BUTTONS -->
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <img src="https://img.shields.io/badge/◉_FOLLOW_ME-007BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Follow Me"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/⌘_MY_PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="My Projects"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/✦_LET'S_CONNECT-0057FF?style=for-the-badge&logoColor=white&labelColor=020617" alt="Let's Connect"/>
+</a>
 
-<!-- ═══════════════ MOTIVATION ═══════════════ -->
+<br/><br/>
 
-## 🚀 My Philosophy
-
-<div align="center">
-
-### "Success belongs to those who never give up."
-
-**Stay focused on your goals. Ignore the doubts. Keep moving forward.**
-
-<sub>Learn consistently · Build passionately · Grow continuously</sub>
+<img src="https://img.shields.io/badge/BUILD-020617?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LEARN-020617?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/IMPROVE-020617?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/REPEAT-020617?style=flat-square&logoColor=00E5FF"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-## 🤝 Let's Connect
+## <img src="https://img.shields.io/badge/01-00BFFF?style=flat-square" /> ABOUT ME
 
 <div align="center">
 
-I'm open to learning, sharing ideas, collaborating on projects, and connecting with people who are passionate about technology and personal growth.
+### 👋 Hello, I'm **Nasrun Habu**
+#### You can call me **MARCO** ⚡
 
-<a href="https://github.com/nasrunhabu">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+I'm building my journey at the intersection of caregiving, financial administration, and technology.
+
+I believe that consistency, curiosity, and continuous learning are the keys to personal and professional growth.
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🩺 CAREGIVER
+
+Care, compassion, and responsibility.
+
+</td>
+<td width="33%" align="center">
+
+### 💼 FINANCE VA
+
+Financial administration and organization.
+
+</td>
+<td width="33%" align="center">
+
+### 💻 FULLSTACK STUDENT
+
+Learning to build modern digital solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://img.shields.io/badge/02-00BFFF?style=flat-square" /> MY TECH JOURNEY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark&perline=8" alt="Technology Stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONTEND-0B1F3A?style=for-the-badge&logo=html5&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/BACKEND-0B1F3A?style=for-the-badge&logo=php&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/DATABASE-0B1F3A?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/WORKFLOW-0B1F3A?style=for-the-badge&logo=git&logoColor=00E5FF"/>
+
+<br/><br/>
+
+<i>My skills are continuously evolving as I learn and build projects.</i>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/03-00BFFF?style=flat-square" /> GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00CFFF&icon_color=00BFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00CFFF&text_color=FFFFFF" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nasrunhabu&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=020617&ring=00CFFF&fire=007BFF&currStreakLabel=00CFFF" alt="GitHub Streak"/>
 
 <br/><br/>
 
-**Thanks for stopping by! ⭐**
-
-*— MARCO | Nasrun Habu*
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=00CFFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0B3B8C,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
+---
 
-<!-- ═══════════════ END ═══════════════ -->
+## <img src="https://img.shields.io/badge/04-00BFFF?style=flat-square" /> MY PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&height=50&lines=SUCCESS+BELONGS+TO+THOSE+WHO+NEVER+GIVE+UP;STAY+FOCUSED.+KEEP+MOVING+FORWARD." alt="Motivational Typing Animation"/>
+
+> **"Success belongs to those who never give up."**
+>
+> Stay focused on your goals. Ignore the doubts. Keep moving forward.
+
+<img src="https://img.shields.io/badge/SMALL_STEPS-BIG_DREAMS-007BFF?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/05-00BFFF?style=flat-square" /> LET'S CONNECT
+
+<div align="center">
+
+I'm open to learning, sharing ideas, collaborating on projects, and connecting with people passionate about technology and personal growth.
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-FOLLOW_MY_JOURNEY-020617?style=for-the-badge&logo=github&logoColor=00CFFF" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=007BFF&label=PROFILE+VISITS" alt="Profile Visits"/>
+
+<br/><br/>
+
+### ⚡ BUILD · LEARN · IMPROVE · REPEAT
+
+**— MARCO | Nasrun Habu**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:007BFF,100:020617&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
+
+<!-- ============== END OF MARCO PROFILE ============== -->

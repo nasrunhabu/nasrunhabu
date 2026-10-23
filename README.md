@@ -71,7 +71,7 @@ I'm open to learning, sharing ideas, collaborating on projects, and connecting w
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/333712935?v=4" alt="Profile Views"/>
+<img src="img/marco-profile.png" alt="Profile Views"/>
 
 <br/><br/>
 

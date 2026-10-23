@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="banner-marco.png" alt="Nasrun Habu - MARCO"/>
+<img src="img/banner-marco.png" alt="Nasrun Habu - MARCO"/>
 
 <br/>
 

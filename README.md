@@ -11,20 +11,25 @@
 
 <br/>
 
-<a href="https://github.com/nasrunhabu">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://github.com/nasrunhabu?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nasrunhabu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/nasrunhabu97/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="http://wa.me/6285121337002" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="nasrun.working@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
 </div>
 
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrunhabu&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 
 I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning **Fullstack Programming** and developing my understanding of modern web development.
@@ -75,7 +80,6 @@ I'm building my journey at the intersection of caregiving, financial administrat
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nasrunhabu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 

@@ -5,8 +5,8 @@
 
 <img src="img/banner-marco.png" alt="Nasrun Habu - MARCO"/>
 
-<br/>
-
+<br align="center"/>
+**Let's Connect**
 <br/>
 
 

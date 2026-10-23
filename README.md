@@ -43,33 +43,16 @@
 <div align="center"> I'm building my journey at the intersection of caregiving, financial administration, and technology. Currently, I'm learning <b>Fullstack Programming</b> and developing my understanding of modern web development. </div>
 <br/>
 
-- 🩺 **Caregiver** — Care, compassion, and responsibility.
-- 💼 **Finance Virtual Assistant** — Financial administration and organization.
-- 💻 **Fullstack Student** — Exploring frontend and backend development.
-- 🌱 **Currently Growing** — Learning programming one step at a time.
-- 🎯 **My Mission** — Build useful digital solutions and keep improving.
 
 <br clear="right"/>
 
 
 <!-- ═══════════════ TECH JOURNEY ═══════════════ -->
-
-## ⚡ My Tech Journey
-
 <div align="center">
-
-| Area | Learning Focus |
-|:---:|:---|
-| 🌐 Frontend | HTML, CSS, JavaScript |
-| ⚙️ Backend | PHP and server-side programming |
-| 🗄️ Database | MySQL and database design |
-| 🔌 Integration | APIs and web services |
-| 🛠️ Workflow | Git, GitHub, and debugging |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing SVG"/>
 </div>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Technologies and tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,laravel,vuejs,tailwindcss&theme=dark" alt="Technologies and tools"/>
 </p>
 
 <p align="center">
@@ -79,39 +62,6 @@
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrunhabu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=nasrunhabu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/>
-
-
-</div>
-
-
-<!-- ═══════════════ MOTIVATION ═══════════════ -->
-
-## 🚀 My Philosophy
-
-<div align="center">
-
-### "Success belongs to those who never give up."
-
-**Stay focused on your goals. Ignore the doubts. Keep moving forward.**
-
-<sub>Learn consistently · Build passionately · Grow continuously</sub>
-
-</div>
-
----
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-## 🤝 Let's Connect
 
 <div align="center">
 
